@@ -127,7 +127,6 @@
                     <p class="post-meta">Posted by <a href="#">Start Bootstrap</a> on July 8, 2014</p>
                 </div>
                 <hr>
-
             </div>
         </div>
     </div>
