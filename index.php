@@ -71,7 +71,7 @@
                     <div class="site-heading">
                         <h1>Clean Blog</h1>
                         <hr class="small">
-                        <span class="subheading">Recycling</span>
+                        <span class="subheading"></span>
                     </div>
                 </div>
             </div>
