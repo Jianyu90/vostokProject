@@ -6,7 +6,7 @@ handlers:
   static_dir: stylesheets
 
 - url: /css
-  static_dir: bootstrap
+  static_dir: css
 
 - url: /.*
   script: index.php
