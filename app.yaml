@@ -5,6 +5,8 @@ handlers:
 - url: /fonts
   static_dir: fonts
 - url: /img
+  static_dir: img
+- url: /les
   static_dir: fonts
 
 - url: /css
