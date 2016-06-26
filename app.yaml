@@ -2,5 +2,16 @@ runtime: php55
 api_version: 1
 
 handlers:
+- url: /fonts
+  static_dir: fonts
+- url: /img
+  static_dir: img
+- url: /less
+  static_dir: less
+- url: /js
+  static_dir: js
+- url: /css
+  static_dir: css
 - url: /.*
   script: index.php
+
