@@ -4,6 +4,8 @@ api_version: 1
 handlers:
 - url: /fonts
   static_dir: fonts
+- url: /fonts
+  static_dir: fonts
 
 - url: /css
   static_dir: css
