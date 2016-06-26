@@ -53,7 +53,7 @@
                         <a href="index.html">Home</a>
                     </li>
                     <li>
-                        <a href="#">About</a>
+                        <a href="#">Login</a>
                     </li>
                 </ul>
             </div>
