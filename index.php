@@ -93,7 +93,6 @@
                     </a>
                     <p class="post-meta">Posted by <a href="#">Start Bootstrap</a> on September 24, 2014</p>
                 </div>
-
             </div>
         </div>
     </div>
