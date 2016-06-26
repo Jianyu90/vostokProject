@@ -53,13 +53,7 @@
                         <a href="index.html">Home</a>
                     </li>
                     <li>
-                        <a href="about.html">About</a>
-                    </li>
-                    <li>
-                        <a href="post.html">Sample Post</a>
-                    </li>
-                    <li>
-                        <a href="contact.html">Contact</a>
+                        <a href="#">Login</a>
                     </li>
                 </ul>
             </div>
@@ -77,7 +71,7 @@
                     <div class="site-heading">
                         <h1>Clean Blog</h1>
                         <hr class="small">
-                        <span class="subheading">A Clean Blog Theme by Start Bootstrap</span>
+                        <span class="subheading">Recycling</span>
                     </div>
                 </div>
             </div>
@@ -89,56 +83,17 @@
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
                 <div class="post-preview">
-                    <a href="post.html">
                         <h2 class="post-title">
-                            Man must explore, and this is exploration at its greatest
+                            Edit this for title
                         </h2>
                         <h3 class="post-subtitle">
                             Problems look mighty small from 150 miles up
-                        </h3>
-                    </a>
-                    <p class="post-meta">Posted by <a href="#">Start Bootstrap</a> on September 24, 2014</p>
+                        </h3>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec quis interdum odio. Vivamus ac placerat nibh. Sed eu ante id risus fermentum sagittis scelerisque in nibh. Nullam fringilla gravida molestie. Morbi ac nisl ut ex tempor fringilla iaculis sit amet diam. Donec porttitor sodales eros ullamcorper aliquam. Vestibulum commodo interdum turpis, quis volutpat turpis tempor sed. Proin vitae congue velit, mollis mollis diam. Morbi mollis finibus justo, sed pellentesque mauris lacinia sit amet. Nullam et sapien mi. Proin malesuada ut urna vel dictum.
+
+Nulla urna felis, mattis vel odio eu, aliquam pharetra nisl. Vivamus eget urna ligula. Morbi rutrum metus id erat sodales volutpat. Nulla facilisi. Duis quis scelerisque ex. Fusce et lacus id nibh molestie eleifend id in turpis. Sed sed velit a tortor faucibus mollis. Duis facilisis tellus ligula, sit amet semper tortor euismod ac. Vivamus vestibulum orci sed lectus rutrum, non congue metus varius. Nunc bibendum iaculis ligula, nec mattis mi. Integer et tempus est. Curabitur sagittis lorem ac fringilla rhoncus. Interdum et malesuada fames ac ante ipsum primis in faucibus. In dictum sem justo. Etiam ut imperdiet mauris, quis vestibulum diam. Nullam facilisis venenatis purus facilisis rhoncus.
+
+Phasellus lacinia leo ac dui sagittis, vel congue purus molestie. Nulla semper dictum libero, nec eleifend elit suscipit at. Vivamus fermentum sem sit amet augue blandit viverra. Duis at dolor augue. Integer ut pretium orci. Nullam sit amet dui at eros accumsan tristique in vel tortor. Nullam porttitor velit ut laoreet laoreet. Sed non consequat magna. Nam a mattis metus, sed aliquam elit. Aenean efficitur mi in risus luctus, at auctor dui fringilla. Mauris egestas leo at consectetur auctor. Sed nec efficitur elit, eget blandit tortor. Nullam ante orci, volutpat sit amet vulputate id, luctus id velit. Phasellus sodales congue enim in facilisis. In ac vulputate nulla.
                 </div>
-                <hr>
-                <div class="post-preview">
-                    <a href="post.html">
-                        <h2 class="post-title">
-                            I believe every human has a finite number of heartbeats. I don't intend to waste any of mine.
-                        </h2>
-                    </a>
-                    <p class="post-meta">Posted by <a href="#">Start Bootstrap</a> on September 18, 2014</p>
-                </div>
-                <hr>
-                <div class="post-preview">
-                    <a href="post.html">
-                        <h2 class="post-title">
-                            Science has not yet mastered prophecy
-                        </h2>
-                        <h3 class="post-subtitle">
-                            We predict too much for the next year and yet far too little for the next ten.
-                        </h3>
-                    </a>
-                    <p class="post-meta">Posted by <a href="#">Start Bootstrap</a> on August 24, 2014</p>
-                </div>
-                <hr>
-                <div class="post-preview">
-                    <a href="post.html">
-                        <h2 class="post-title">
-                            Failure is not an option
-                        </h2>
-                        <h3 class="post-subtitle">
-                            Many say exploration is part of our destiny, but it’s actually our duty to future generations.
-                        </h3>
-                    </a>
-                    <p class="post-meta">Posted by <a href="#">Start Bootstrap</a> on July 8, 2014</p>
-                </div>
-                <hr>
-                <!-- Pager -->
-                <ul class="pager">
-                    <li class="next">
-                        <a href="#">Older Posts &rarr;</a>
-                    </li>
-                </ul>
             </div>
         </div>
     </div>
