@@ -89,7 +89,6 @@
                         <h3 class="post-subtitle">
                             Problems look mighty small from 150 miles up
                         </h3>
-                    </a>
                 </div>
             </div>
         </div>
