@@ -85,7 +85,7 @@
                 <div class="post-preview">
                     <a href="post.html">
                         <h2 class="post-title">
-                            Edit this for
+                            Edit this for title
                         </h2>
                         <h3 class="post-subtitle">
                             Problems look mighty small from 150 miles up
