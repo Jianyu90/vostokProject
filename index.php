@@ -71,7 +71,7 @@
                     <div class="site-heading">
                         <h1>Recycling</h1>
                         <hr class="small">
-                        <span class="subheading"></span>
+                        <span class="subheading">Some Slogan</span>
                     </div>
                 </div>
             </div>
