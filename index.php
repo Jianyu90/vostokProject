@@ -87,7 +87,7 @@
                             Edit this for Header
                         </h2>
                         <h3 class="post-subtitle">
-                            Problems look mighty small from 150 miles up
+                            Edit this for Header
                         </h3>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec quis interdum odio. Vivamus ac placerat nibh. Sed eu ante id risus fermentum sagittis scelerisque in nibh. Nullam fringilla gravida molestie. Morbi ac nisl ut ex tempor fringilla iaculis sit amet diam. Donec porttitor sodales eros ullamcorper aliquam. Vestibulum commodo interdum turpis, quis volutpat turpis tempor sed. Proin vitae congue velit, mollis mollis diam. Morbi mollis finibus justo, sed pellentesque mauris lacinia sit amet. Nullam et sapien mi. Proin malesuada ut urna vel dictum.
 
 Nulla urna felis, mattis vel odio eu, aliquam pharetra nisl. Vivamus eget urna ligula. Morbi rutrum metus id erat sodales volutpat. Nulla facilisi. Duis quis scelerisque ex. Fusce et lacus id nibh molestie eleifend id in turpis. Sed sed velit a tortor faucibus mollis. Duis facilisis tellus ligula, sit amet semper tortor euismod ac. Vivamus vestibulum orci sed lectus rutrum, non congue metus varius. Nunc bibendum iaculis ligula, nec mattis mi. Integer et tempus est. Curabitur sagittis lorem ac fringilla rhoncus. Interdum et malesuada fames ac ante ipsum primis in faucibus. In dictum sem justo. Etiam ut imperdiet mauris, quis vestibulum diam. Nullam facilisis venenatis purus facilisis rhoncus.
