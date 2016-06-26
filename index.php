@@ -100,7 +100,7 @@ Phasellus lacinia leo ac dui sagittis, vel congue purus molestie. Nulla semper d
 
     <hr>
 
-    <!-- Footer -->
+<!--     <!-- Footer -->
     <footer>
         <div class="container">
             <div class="row">
@@ -135,7 +135,7 @@ Phasellus lacinia leo ac dui sagittis, vel congue purus molestie. Nulla semper d
                 </div>
             </div>
         </div>
-    </footer>
+    </footer> -->
 
     <!-- jQuery -->
     <script src="js/jquery.js"></script>
