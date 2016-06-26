@@ -100,7 +100,7 @@ Phasellus lacinia leo ac dui sagittis, vel congue purus molestie. Nulla semper d
 
     <hr>
 
-<!--     <!-- Footer -->
+<!--    
     <footer>
         <div class="container">
             <div class="row">
