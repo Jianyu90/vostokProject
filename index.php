@@ -53,9 +53,8 @@
                         <a href="index.html">Home</a>
                     </li>
                     <li>
-                        <a href="about.html">About</a>
+                        <a href="">About</a>
                     </li>
-
                 </ul>
             </div>
             <!-- /.navbar-collapse -->
