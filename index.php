@@ -43,7 +43,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="index.html">Start Bootstrap</a>
+                <a class="navbar-brand" href="index.php">Recycling</a>
             </div>
 
             <!-- Collect the nav links, forms, and other content for toggling -->
@@ -70,8 +70,8 @@
                 <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
                     <div class="site-heading">
                         <h1>Recycling</h1>
-                        <hr class="small">
-                        <span class="subheading">Some Slogan</span>
+                        <hr class="small"><!-- 
+                        <span class="subheading">Some Slogan</span> -->
                     </div>
                 </div>
             </div>
@@ -86,22 +86,23 @@
                         <h3 class="post-subtitle">
                             Fun Facts About Recycling
                         </h3>
-                  1.       Every glass bottle recycled saves enough energy for a 100 watt light bulb to be lit for 4 hours.
-
-2.       Recycling one aluminum can save enough energy to listen to a full album on your ipod.
-
-3.       Recycling one ton of papers saves 17 trees. 
-
-4.       One drip one second from a leaky faucet wastes 2044.12 litres of water a year.
+                  <ol>       
+				  
+				  <li>Every glass bottle recycled saves enough energy for a 100 watt light bulb to be lit for 4 hours.</li>
+				  <li>Recycling one aluminum can save enough energy to listen to a full album on your ipod.</li>
+				  <li>Recycling one ton of papers saves 17 trees. </li>
+				  <li>One drip one second from a leaky faucet wastes 2044.12 litres of water a year.</li>
+</ol>
                   <hr>
                   <h3 class="post-subtitle">
                             Recycling tips
                         </h3>
-                  1.       Food cans should be RINSED and have lids and labels removed.
+						<ol>
+                  <li> Food cans should be RINSED and have lids and labels removed.</li>
 
-2.       Pesticide containers, detergent, bleaching bottles, paint cans contains toxic and should not be recycled. However, you should reuse them after rinsing it.
+<li>Pesticide containers, detergent, bleaching bottles, paint cans contains toxic and should not be recycled. However, you should reuse them after rinsing it.</li>
 
-3.       Leave staples, envelops on when recycling paper.
+<li>Leave staples, envelops on when recycling paper.</li></ol>
                 </div>
             </div>
         </div>
