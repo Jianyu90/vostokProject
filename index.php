@@ -95,7 +95,7 @@
 4.       One drip one second from a leaky faucet wastes 2044.12 litres of water a year.
                   <hr>
                   <h3 class="post-subtitle">
-                            Fun Facts About Recycling
+                            Recycling tips
                         </h3>
                   1.       Every glass bottle recycled saves enough energy for a 100 watt light bulb to be lit for 4 hours.
 
