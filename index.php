@@ -83,16 +83,25 @@
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
                 <div class="post-preview">
-                        <h2 class="post-title">
-                            Edit this for Header
-                        </h2>
                         <h3 class="post-subtitle">
-                            Edit this for Article Title
-                        </h3>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec quis interdum odio. Vivamus ac placerat nibh. Sed eu ante id risus fermentum sagittis scelerisque in nibh. Nullam fringilla gravida molestie. Morbi ac nisl ut ex tempor fringilla iaculis sit amet diam. Donec porttitor sodales eros ullamcorper aliquam. Vestibulum commodo interdum turpis, quis volutpat turpis tempor sed. Proin vitae congue velit, mollis mollis diam. Morbi mollis finibus justo, sed pellentesque mauris lacinia sit amet. Nullam et sapien mi. Proin malesuada ut urna vel dictum.
+                            Fun Facts About Recycling
+                        </h3>
+                  1.       Every glass bottle recycled saves enough energy for a 100 watt light bulb to be lit for 4 hours.
 
-Nulla urna felis, mattis vel odio eu, aliquam pharetra nisl. Vivamus eget urna ligula. Morbi rutrum metus id erat sodales volutpat. Nulla facilisi. Duis quis scelerisque ex. Fusce et lacus id nibh molestie eleifend id in turpis. Sed sed velit a tortor faucibus mollis. Duis facilisis tellus ligula, sit amet semper tortor euismod ac. Vivamus vestibulum orci sed lectus rutrum, non congue metus varius. Nunc bibendum iaculis ligula, nec mattis mi. Integer et tempus est. Curabitur sagittis lorem ac fringilla rhoncus. Interdum et malesuada fames ac ante ipsum primis in faucibus. In dictum sem justo. Etiam ut imperdiet mauris, quis vestibulum diam. Nullam facilisis venenatis purus facilisis rhoncus.
+2.       Recycling one aluminum can save enough energy to listen to a full album on your ipod.
 
-Phasellus lacinia leo ac dui sagittis, vel congue purus molestie. Nulla semper dictum libero, nec eleifend elit suscipit at. Vivamus fermentum sem sit amet augue blandit viverra. Duis at dolor augue. Integer ut pretium orci. Nullam sit amet dui at eros accumsan tristique in vel tortor. Nullam porttitor velit ut laoreet laoreet. Sed non consequat magna. Nam a mattis metus, sed aliquam elit. Aenean efficitur mi in risus luctus, at auctor dui fringilla. Mauris egestas leo at consectetur auctor. Sed nec efficitur elit, eget blandit tortor. Nullam ante orci, volutpat sit amet vulputate id, luctus id velit. Phasellus sodales congue enim in facilisis. In ac vulputate nulla.
+3.       Recycling one ton of papers saves 17 trees. 
+
+4.       One drip one second from a leaky faucet wastes 2044.12 litres of water a year.
+                  <hr>
+                  <h3 class="post-subtitle">
+                            Recycling tips
+                        </h3>
+                  1.       Food cans should be RINSED and have lids and labels removed.
+
+2.       Pesticide containers, detergent, bleaching bottles, paint cans contains toxic and should not be recycled. However, you should reuse them after rinsing it.
+
+3.       Leave staples, envelops on when recycling paper.
                 </div>
             </div>
         </div>
