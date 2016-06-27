@@ -97,13 +97,11 @@
                   <h3 class="post-subtitle">
                             Recycling tips
                         </h3>
-                  1.       Every glass bottle recycled saves enough energy for a 100 watt light bulb to be lit for 4 hours.
+                  1.       Food cans should be RINSED and have lids and labels removed.
 
-2.       Recycling one aluminum can save enough energy to listen to a full album on your ipod.
+2.       Pesticide containers, detergent, bleaching bottles, paint cans contains toxic and should not be recycled. However, you should reuse them after rinsing it.
 
-3.       Recycling one ton of papers saves 17 trees. 
-
-4.       One drip one second from a leaky faucet wastes 2044.12 litres of water a year.
+3.       Leave staples, envelops on when recycling paper.
                 </div>
             </div>
         </div>
