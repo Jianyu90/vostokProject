@@ -83,9 +83,7 @@
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
                 <div class="post-preview">
-                        <h2 class="post-title">
-                            Edit this for Header
-                        </h2>
+
                         <h3 class="post-subtitle">
                             Fun Facts About Recycling
                         </h3>
